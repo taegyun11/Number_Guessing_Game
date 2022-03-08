@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.main_box{
+    background-color: aqua;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 100%;
+    border-radius: 30px;
+}
+
